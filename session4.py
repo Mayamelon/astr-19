@@ -21,7 +21,7 @@ class Animal:
 		print (f"I have {self.armLength}cm long arms.")
 		print (f"I have {self.legLength}cm long legs.")
 		print (f"I have {self.numEyes} eyes.")
-		if (self.armLength):
+		if (self.hasTail):
 			print("I have a tail.")
 		else:
 			print("I do not have a tail.")
